@@ -1,0 +1,13 @@
+calc a + b =
+def dk 1001
+def kk 2
+def add 3
+def ans 5
+calc add + kk =
+def ans3 -2
+calc add - ans =
+
+def f 1
+def b 1
+def ans 2
+calc f + b = 
